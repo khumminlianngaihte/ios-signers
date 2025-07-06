@@ -1,0 +1,46 @@
+{
+  "apps": [
+    {
+      "name": "Feather",
+      "bundleIdentifier": "org.procursus.feather",
+      "version": "2.1.1",
+      "downloadURL": "https://github.com/ProcursusTeam/Feather/releases/download/2.1.1/Feather.ipa"
+    },
+    {
+      "name": "eSign",
+      "bundleIdentifier": "cn.signhelper.esign",
+      "version": "5.0.2",
+      "downloadURL": "https://down.signhelper.cn/IPA/eSign-v5.0.2.ipa"
+    },
+    {
+      "name": "KSign",
+      "bundleIdentifier": "com.ksign.app",
+      "version": "1.0.3",
+      "downloadURL": "https://ios.cfw.guide/files/ksign-v1.0.3.ipa"
+    },
+    {
+      "name": "ZSign",
+      "bundleIdentifier": "com.zsign.app",
+      "version": "1.0",
+      "downloadURL": "https://ios.cfw.guide/files/zsign-v1.0.ipa"
+    },
+    {
+      "name": "Portal",
+      "bundleIdentifier": "com.iosgods.portal",
+      "version": "latest",
+      "downloadURL": "https://repo.iosgods.com/ipa/Portal.ipa"
+    },
+    {
+      "name": "Sideloadly",
+      "bundleIdentifier": "io.sideloadly.desktop",
+      "version": "latest",
+      "downloadURL": "https://sideloadly.io"
+    },
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "io.altstore.desktop",
+      "version": "latest",
+      "downloadURL": "https://altstore.io"
+    }
+  ]
+}
