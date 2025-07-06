@@ -1,0 +1,39 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+
+# Node/npm (if you use npm tools in future)
+node_modules/
+npm-debug.log*
+
+# Python (if you script your repo later)
+__pycache__/
+*.py[cod]
+
+# macOS Finder/Spotlight metadata
+.AppleDouble
+.LSOverride
+
+# IDE/editor files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Git ignored repo.json backups
+repo.json.bak
